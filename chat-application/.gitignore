@@ -1,0 +1,10 @@
+# Maven files
+!.mvn/wrapper/maven-wrapper.jar
+
+# Compiled & Build files
+bin/
+out/
+build/
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/

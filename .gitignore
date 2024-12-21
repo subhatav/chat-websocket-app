@@ -1,20 +1,6 @@
 # Log files
 *.log
 
-# Environment files
-.env*
-
-# Maven dependencies
-!.mvn/wrapper/maven-wrapper.jar
-
-# Compiled & Build files
-bin/
-out/
-build/
-target/
-!**/src/main/**/target/
-!**/src/test/**/target/
-
 # IntelliJ IDEA files
 .idea/
 *.iws
